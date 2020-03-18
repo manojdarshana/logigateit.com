@@ -2871,9 +2871,9 @@
     padding: 70px 0px;
   }
 
-  .case-studies .owl-dots,
+  .case-studies
   .testimonial-style-12 .owl-dots{
-    display: none;
+    display: true;
   }
 
   .counter-style-three,
